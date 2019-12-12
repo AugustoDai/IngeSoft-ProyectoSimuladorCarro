@@ -31,7 +31,7 @@ Feature:
     Given visito la pagina de datosSimulacion
     And lleno el campo "Orient" con el valor de "North"
     When presiono el boton de "Enviar"
-    Then deberia ver el mensaje de la pos "Mirando hacia el: North"
+    Then deberia ver el mensaje de la pos "El carro termino mirando hacia el: North"
 
     Scenario:
     Given visito la pagina de datosSimulacion
