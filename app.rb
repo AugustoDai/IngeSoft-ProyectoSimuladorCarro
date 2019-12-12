@@ -29,20 +29,17 @@ post '/resultadoSimulacion' do
 
     @matrix = Matrix.zero(1,1)
 
+    @auxX=@posX
+    @auxY=@posY
+
+    @iniX = @auxX.to_i
+    @iniY = @auxY.to_i
     if @filas >= 1 && @columnas >= 1
         @filas = @dimX.to_i
         @columnas = @dimY.to_i
         @matrix = Matrix.zero(@filas,@columnas)
     else
         puts 'no se pueden ingresar numeros negativos'
-    end 
-    @Orient = "North"
-    @iniX = @posx.to_i
-    @iniY = @posy.to_i
-    if @iniX >= 0 && @iniY >= 0
-        @matrix[@iniX,@iniY] = 1
-    else
-        puts 'no se puede iniciar en esas coordenadas'
     end
 
     @roadN = @pasos.split(",")
@@ -51,6 +48,8 @@ post '/resultadoSimulacion' do
 
     @indice = 0
     malosPasos = 0
+
+    @destinoFinal = [@iniX, @iniY]
 
     until @tamanio==(@indice) do
         @steph = @roadN[@indice]
@@ -62,12 +61,10 @@ post '/resultadoSimulacion' do
                         @Orient='West'
                     when 'D'
                         @Orient='East'
-                    when 'F'
-                        if @iniX >= 0 && @iniY >= 0 && @iniX <= @rows && @iniY <= @columns                          
-                            @iniX = @iniX - 1
-                            @matrix[@iniX,@iniY] = 1 
-                            @Orient='North' 
-                        end
+                    when 'F'                        
+                        @iniX = @iniX - 1
+                        @matrix[@iniX,@iniY] = 1 
+                        @Orient='North' 
                     else
                     malosPasos = malosPasos + 1
                 end
@@ -77,12 +74,10 @@ post '/resultadoSimulacion' do
                     @Orient='North'
                 when 'D'
                     @Orient='South'
-                when 'F'
-                    if @iniX >= 0 && @iniY >= 0 && @iniX <= @rows && @iniY <= @columns                          
-                        @iniY = @iniY + 1
-                        @matrix[@iniX,@iniY] = 1 
-                        @Orient='East' 
-                    end 
+                when 'F'                        
+                    @iniY = @iniY + 1
+                    @matrix[@iniX,@iniY] = 1 
+                    @Orient='East' 
                 else
                     malosPasos = malosPasos + 1
             end
@@ -92,12 +87,10 @@ post '/resultadoSimulacion' do
                     @Orient='East'
                 when 'D'
                     @Orient='West'
-                when 'F'
-                    if @iniX >= 0 && @iniY >= 0 && @iniX <= @rows && @iniY <= @columns                          
-                        @iniX = @iniX + 1
-                        @matrix[@iniX,@iniY] = 1 
-                        @Orient='South'
-                    end 
+                when 'F'                  
+                    @iniX = @iniX + 1
+                    @matrix[@iniX,@iniY] = 1 
+                    @Orient='South'
                     
                 else
                     malosPasos = malosPasos + 1
@@ -108,12 +101,10 @@ post '/resultadoSimulacion' do
                     @Orient='South'
                 when 'D'
                     @Orient='North'
-                when 'F'
-                    if @iniX >= 0 && @iniY >= 0 && @iniX <= @rows && @iniY <= @columns                          
-                        @iniY = @iniY - 1
-                        @matrix[@iniX,@iniY] = 1 
-                        @Orient='West'
-                    end
+                when 'F'                         
+                    @iniY = @iniY - 1
+                    @matrix[@iniX,@iniY] = 1 
+                    @Orient='West'
                 else
                     malosPasos = malosPasos + 1
             end
@@ -123,8 +114,7 @@ post '/resultadoSimulacion' do
         @indice = @indice + 1
     end
 
-    @destinoFinal = [@iniX, @iniY]
-
+    @destinoFinal = [@iniX,@iniY]
     erb :resultadoSimulacion
 end
 
