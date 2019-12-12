@@ -32,3 +32,9 @@ Feature:
     And lleno el campo "Orient" con el valor de "North"
     When presiono el boton de "Enviar"
     Then deberia ver el mensaje de la pos "Mirando hacia el: North"
+
+    Scenario:
+    Given visito la pagina de datosSimulacion
+    And lleno el campo "pasos" con el valor de "I,D,F"
+    When presiono el boton de "Enviar"
+    Then deberia ver el mensaje de la pos "Con un camino a seguir de: I,D,F"
