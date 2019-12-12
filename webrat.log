@@ -1,0 +1,1319 @@
+# Logfile created on 2019-11-29 00:58:48 -0400 by logger.rb/31641
+D, [2019-11-29T00:58:48.969443 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.184213 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.187802 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.195347 #52547] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T00:58:49.198665 #52547] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T00:58:49.203408 #52547] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:04:55.956936 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.035463 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.039629 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.046260 #53863] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:04:56.049469 #53863] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:04:56.053508 #53863] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T10:29:07.639439 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.719423 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.725033 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.733362 #54748] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T10:29:07.737356 #54748] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T10:29:07.748125 #54748] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:05:56.230394 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.298677 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.304246 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.312474 #55254] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:05:56.315574 #55254] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:05:56.335784 #55254] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:29.446768 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.525084 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.528366 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.537031 #55485] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:29.540493 #55485] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:29.544292 #55485] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-11-29T11:06:44.281223 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.336833 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.340570 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.348913 #55621] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-11-29T11:06:44.351681 #55621] DEBUG -- : REQUESTING PAGE: POST /ingresar with {"monto"=>"300"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-11-29T11:06:44.354087 #55621] DEBUG -- : REQUESTING PAGE: POST /retirar with {"retiro"=>"100"} and HTTP headers {"HTTP_REFERER"=>"/ingresar"}
+D, [2019-12-04T22:42:08.798879 #13212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T22:43:54.482010 #14188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T22:46:08.218888 #3532] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T22:46:25.726241 #10496] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T22:46:34.221939 #616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:08:04.147531 #1512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:08:04.239210 #1512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:15:51.761495 #11032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:15:51.818509 #11032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:17:46.110885 #3556] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:17:46.173874 #3556] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:20:13.355974 #13276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:20:13.418466 #13276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:22:35.606449 #8640] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:22:35.663555 #8640] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:23:33.383984 #248] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:23:33.445492 #248] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:23:46.981738 #10752] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:23:47.038499 #10752] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:24:28.902109 #2752] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:24:28.960918 #2752] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:25:16.556989 #7060] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:25:16.618229 #7060] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:25:16.623012 #7060] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:28:35.751533 #8856] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:28:35.817072 #8856] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:28:35.826277 #8856] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:29:19.101065 #7772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:29:19.162478 #7772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:29:19.166399 #7772] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:29:47.636132 #8348] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:29:47.703790 #8348] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:29:47.708186 #8348] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:33:27.500373 #2696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:33:27.617226 #2696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:33:27.622231 #2696] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:33:53.001363 #8756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:33:53.058149 #8756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:33:53.062853 #8756] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:35:20.274233 #3408] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:35:20.337178 #3408] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:35:20.341695 #3408] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-04T23:37:02.786306 #10624] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:37:02.841507 #10624] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-04T23:37:02.846419 #10624] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:09:58.813182 #8720] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:09:58.888834 #8720] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:09:58.894497 #8720] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:10:30.619334 #14020] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:10:30.677823 #14020] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:10:30.682184 #14020] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:15:35.772430 #12464] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:15:35.829196 #12464] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:15:35.834552 #12464] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:15:35.846298 #12464] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:16:47.321310 #15604] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:16:47.379931 #15604] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:16:47.385090 #15604] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:16:47.395939 #15604] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:18:43.759332 #10388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:18:43.820640 #10388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:18:43.825562 #10388] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:18:43.834634 #10388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:18:43.843023 #10388] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:20:22.136099 #15876] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:20:22.197362 #15876] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:20:22.204278 #15876] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:20:22.213095 #15876] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:20:22.219107 #15876] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:22:35.780708 #13820] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:22:35.837855 #13820] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:22:35.842236 #13820] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:22:35.853931 #13820] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:22:35.859290 #13820] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:25:57.558801 #16020] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:25:57.624331 #16020] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:25:57.628300 #16020] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:25:57.639795 #16020] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:27:50.789289 #7640] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:27:50.840564 #7640] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:27:50.844390 #7640] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:27:50.851788 #7640] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:36:43.914584 #14840] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:36:43.966133 #14840] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:36:43.972190 #14840] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:36:43.982900 #14840] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:00.705042 #2488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:00.755416 #2488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:00.759217 #2488] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:40:34.492727 #10536] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:34.545225 #10536] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:34.549289 #10536] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:40:51.585932 #11080] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:51.637399 #11080] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:40:51.641402 #11080] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:42:36.241908 #16124] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:42:36.297090 #16124] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:42:36.308751 #16124] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:43:17.745684 #15776] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:43:17.800524 #15776] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:43:17.804949 #15776] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:47:08.288064 #13328] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:47:08.339646 #13328] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:47:08.343303 #13328] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:47:08.350924 #13328] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T00:47:08.357488 #13328] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T00:47:44.962800 #15616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:47:45.015955 #15616] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:47:45.020621 #15616] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:47:45.029343 #15616] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T00:52:27.534717 #15128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:52:27.592917 #15128] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:52:27.596881 #15128] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:52:27.604874 #15128] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T00:52:27.608481 #15128] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T00:54:54.234142 #16064] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:54:54.289917 #16064] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T00:54:54.293779 #16064] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T00:54:54.301827 #16064] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T00:54:54.305336 #16064] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:03:04.681017 #13512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:03:04.734041 #13512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:03:04.738035 #13512] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen", "edadTxt"=>""} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:03:04.745823 #13512] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:03:04.749435 #13512] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:04:32.300225 #5888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:04:32.355456 #5888] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:04:32.359532 #5888] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:04:32.367388 #5888] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:04:32.371034 #5888] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:05:35.919057 #6104] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:05:35.971408 #6104] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:05:35.976118 #6104] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:05:35.997616 #6104] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:05:36.002299 #6104] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:32:25.342472 #11916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:32:25.395179 #11916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:32:25.405744 #11916] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:32:25.414687 #11916] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:32:25.426691 #11916] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:33:17.199807 #9628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:33:17.251571 #9628] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:33:17.255250 #9628] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:33:17.263259 #9628] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:33:17.267043 #9628] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:36:43.632105 #5516] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:36:43.708046 #5516] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:36:43.713129 #5516] DEBUG -- : REQUESTING PAGE: POST /saludar with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:36:43.729583 #5516] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:36:43.735261 #5516] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T01:54:31.003160 #3636] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:54:31.092395 #3636] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T01:54:31.096578 #3636] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T01:54:31.157320 #3636] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T01:54:31.162701 #3636] DEBUG -- : REQUESTING PAGE: POST /datos with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:07:51.978325 #412] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:07:52.033978 #412] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:07:52.037683 #412] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:07:52.046478 #412] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:07:52.050094 #412] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:09:36.741962 #16188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:09:36.798905 #16188] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:09:36.802946 #16188] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:09:36.811574 #16188] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:09:36.815617 #16188] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:09:36.819265 #16188] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:10:43.743184 #2276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:10:43.800985 #2276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:10:43.804927 #2276] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:10:43.813621 #2276] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:10:43.817332 #2276] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:10:43.821360 #2276] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:10:43.824762 #2276] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:11:42.142885 #10620] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:11:42.201801 #10620] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:11:42.205629 #10620] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:11:42.215199 #10620] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:11:42.219116 #10620] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:11:42.225698 #10620] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:11:42.231483 #10620] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:18:11.352565 #16056] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:18:11.410446 #16056] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:18:11.414687 #16056] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:18:11.422892 #16056] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:18:11.426550 #16056] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:18:11.429649 #16056] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:18:11.433758 #16056] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:18:45.526442 #12080] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:18:45.584634 #12080] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:18:45.590136 #12080] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:18:45.598549 #12080] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:18:45.603868 #12080] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:18:45.609321 #12080] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:18:45.619084 #12080] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:20:51.730566 #2980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:20:51.786766 #2980] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:20:51.790833 #2980] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:20:51.799067 #2980] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:20:51.803148 #2980] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:20:51.806435 #2980] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:20:51.811778 #2980] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:20:51.818925 #2980] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:23:23.392379 #16168] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:23:23.448957 #16168] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:23:23.453092 #16168] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:23:23.462202 #16168] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:23:23.466299 #16168] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:23:23.476097 #16168] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:23:23.482589 #16168] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:23:23.489025 #16168] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:24:26.345428 #16228] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:24:26.406302 #16228] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:24:26.410934 #16228] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:24:26.420448 #16228] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:24:26.423901 #16228] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:24:26.426779 #16228] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:24:26.431078 #16228] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:24:26.435780 #16228] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:25:17.762030 #8212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:25:17.820970 #8212] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:25:17.827658 #8212] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:25:17.839741 #8212] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:25:17.851305 #8212] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:25:17.855079 #8212] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:25:17.859434 #8212] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:25:17.863808 #8212] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:28:08.771096 #4832] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:28:08.831310 #4832] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:28:08.835316 #4832] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:28:08.843296 #4832] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:28:08.847266 #4832] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:28:08.850295 #4832] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:28:08.853640 #4832] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:28:08.857325 #4832] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:29:31.824602 #14276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:29:31.881150 #14276] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:29:31.885084 #14276] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:29:31.892756 #14276] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:29:31.895980 #14276] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:29:31.898995 #14276] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:29:31.902519 #14276] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:29:31.905649 #14276] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T02:45:32.970136 #11124] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:45:33.025993 #11124] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T02:45:33.030187 #11124] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T02:45:33.039295 #11124] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:45:33.043174 #11124] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:45:33.046527 #11124] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T02:45:33.050285 #11124] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T02:45:33.057261 #11124] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T03:49:48.376782 #4244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T03:49:48.803089 #4244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T03:49:48.857103 #4244] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T03:49:48.883633 #4244] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T03:49:48.896691 #4244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T03:49:48.908162 #4244] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T03:49:48.921900 #4244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T03:49:48.933954 #4244] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-05T04:01:47.565847 #10340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T04:01:47.723688 #10340] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-05T04:01:47.736547 #10340] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-05T04:01:47.763914 #10340] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T04:01:47.779976 #10340] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T04:01:47.790922 #10340] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-05T04:01:47.805433 #10340] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-05T04:01:47.818439 #10340] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-10T22:22:26.557454 #10048] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:22:26.879773 #10048] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:22:26.890485 #10048] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-10T22:22:26.921424 #10048] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:22:26.932186 #10048] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:22:26.950376 #10048] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:22:26.964639 #10048] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:22:26.988106 #10048] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-10T22:25:50.133075 #2424] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:25:50.427282 #2424] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:25:50.499820 #2424] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-10T22:25:50.570491 #2424] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:25:50.634072 #2424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:25:50.676667 #2424] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:25:50.730183 #2424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:25:50.801564 #2424] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-10T22:40:10.283422 #3384] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:40:10.570463 #3384] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T22:40:10.638047 #3384] DEBUG -- : REQUESTING PAGE: POST /datos with {"nombreTxt"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-10T22:40:10.729588 #3384] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:40:10.793159 #3384] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:40:10.844533 #3384] DEBUG -- : REQUESTING PAGE: GET /datos with {} and HTTP headers {}
+D, [2019-12-10T22:40:10.911099 #3384] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/datos"}
+D, [2019-12-10T22:40:10.991167 #3384] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-10T23:22:37.970968 #8848] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T23:22:39.920385 #8848] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T23:22:39.976892 #8848] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-10T23:22:40.046962 #8848] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-10T23:22:40.104662 #8848] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-10T23:22:40.149165 #8848] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-10T23:22:40.215050 #8848] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-10T23:22:40.384172 #8848] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-10T23:23:21.137409 #8084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T23:23:21.435094 #8084] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-10T23:23:21.489185 #8084] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-10T23:23:21.563397 #8084] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-10T23:23:21.619441 #8084] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-10T23:23:21.665775 #8084] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-10T23:23:21.731092 #8084] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-10T23:23:21.798516 #8084] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:35:16.114868 #3904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:35:16.631068 #3904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:35:16.741404 #3904] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:35:16.891314 #3904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:35:16.960092 #3904] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:35:17.000203 #3904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:35:17.058858 #3904] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:35:17.132992 #3904] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:37:09.797845 #5776] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:37:10.078898 #5776] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:37:10.139329 #5776] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:37:10.222261 #5776] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:37:10.276334 #5776] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:37:10.322638 #5776] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:37:10.391487 #5776] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:37:10.471186 #5776] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:43:03.074153 #8528] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:43:03.319922 #8528] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:43:03.375596 #8528] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:43:03.442518 #8528] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:43:03.494902 #8528] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:43:03.539560 #8528] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:43:03.595089 #8528] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:43:03.675332 #8528] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:44:21.989586 #9240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:44:22.241270 #9240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:44:22.300459 #9240] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:44:22.389743 #9240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:44:22.445887 #9240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:44:22.490904 #9240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:44:22.548392 #9240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:44:22.626749 #9240] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:46:25.831645 #11028] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:46:26.082610 #11028] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:46:26.142711 #11028] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:46:26.236370 #11028] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:46:26.291642 #11028] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:46:26.339198 #11028] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:46:26.395676 #11028] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:46:26.466209 #11028] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T17:59:50.561345 #2564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:59:50.818250 #2564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T17:59:50.876741 #2564] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Allen"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T17:59:53.049869 #2564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:59:53.173524 #2564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:59:53.214133 #2564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T17:59:53.271155 #2564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T17:59:53.327927 #2564] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:04:08.236374 #7344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:04:08.494971 #7344] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:04:08.579059 #7344] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:04:08.990867 #7344] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:04:09.053119 #7344] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:04:09.094603 #7344] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:04:09.154610 #7344] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:04:09.328212 #7344] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:06:39.979910 #8036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:06:40.259442 #8036] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:06:40.331881 #8036] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:06:40.759666 #8036] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:06:40.819740 #8036] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:06:40.865318 #8036] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:06:40.926790 #8036] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:06:40.993624 #8036] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:07:35.367124 #8712] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:07:35.624606 #8712] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:07:35.684859 #8712] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:07:35.755124 #8712] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:07:35.808905 #8712] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:07:35.851919 #8712] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:07:35.908470 #8712] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:07:35.968639 #8712] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:22:39.062242 #7904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:22:39.318546 #7904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:22:39.376694 #7904] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:22:39.448167 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:22:39.501413 #7904] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:22:39.543208 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:22:39.600748 #7904] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:22:39.658984 #7904] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:52:50.218471 #7552] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:52:50.496051 #7552] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:52:50.551284 #7552] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:52:51.159021 #7552] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:52:51.216154 #7552] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:52:51.259681 #7552] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:52:51.549437 #7552] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:52:51.618120 #7552] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:53:50.751165 #11152] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:53:50.990411 #11152] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:53:51.042644 #11152] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:53:52.045062 #11152] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:53:52.100359 #11152] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:53:52.140206 #11152] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:53:52.193722 #11152] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:53:52.252965 #11152] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T18:56:28.448725 #7364] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:56:28.758069 #7364] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T18:56:28.827655 #7364] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T18:56:28.932601 #7364] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:56:29.006193 #7364] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:56:29.147116 #7364] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T18:56:29.225015 #7364] DEBUG -- : REQUESTING PAGE: POST /resultado with {"mapaX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T18:56:29.304643 #7364] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:00:40.372569 #5368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:00:40.618488 #5368] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:00:40.674972 #5368] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:00:41.017966 #5368] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:00:41.071016 #5368] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:00:41.130903 #5368] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:00:41.189816 #5368] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:00:41.247316 #5368] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:22:58.062240 #6512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:22:58.889955 #6512] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:22:58.999250 #6512] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:22:59.176145 #6512] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:22:59.259597 #6512] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "mapaY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:22:59.315551 #6512] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:22:59.386350 #6512] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "mapaY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:22:59.458890 #6512] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:25:55.135889 #9608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:25:55.386373 #9608] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:25:55.445095 #9608] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:25:55.523743 #9608] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:25:55.578826 #9608] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:25:55.646733 #9608] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:25:55.705768 #9608] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "carX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:25:55.764016 #9608] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:27:25.984213 #7916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:27:26.234209 #7916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:27:26.292626 #7916] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:27:26.373326 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:27:26.424234 #7916] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:27:26.465364 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:27:26.519466 #7916] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:27:26.579927 #7916] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:29:19.864890 #10964] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:29:20.136533 #10964] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:29:20.198625 #10964] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:29:20.275362 #10964] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:29:20.330633 #10964] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:29:20.408712 #10964] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:29:20.463344 #10964] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:29:20.521481 #10964] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:29:30.698637 #8412] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:29:30.945765 #8412] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:29:31.002767 #8412] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:29:31.075264 #8412] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:29:31.128056 #8412] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:29:31.168536 #8412] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:29:31.225868 #8412] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:29:31.268261 #8412] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:29:31.325934 #8412] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:29:32.050249 #8412] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:30:40.773335 #6100] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:30:41.026817 #6100] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:30:41.084408 #6100] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:30:41.151056 #6100] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:30:41.203596 #6100] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:30:41.253418 #6100] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:30:41.309546 #6100] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:30:41.355618 #6100] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:30:41.414414 #6100] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "carY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:30:41.474453 #6100] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:33:02.639795 #7696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:33:02.881159 #7696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:33:02.937442 #7696] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:33:03.034146 #7696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:33:03.086935 #7696] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:33:03.134764 #7696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:33:03.192471 #7696] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:33:03.235015 #7696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:33:03.291739 #7696] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:33:03.336523 #7696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:33:03.412070 #7696] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "carO"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:33:03.474995 #7696] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.030214 #8488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.289028 #8488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.348004 #8488] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:38:45.530257 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.626712 #8488] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:38:45.667514 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.723579 #8488] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:38:45.766300 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.825618 #8488] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:38:45.869699 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:38:45.928492 #8488] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:38:45.991006 #8488] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:39:56.675619 #3796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:39:56.926866 #3796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:39:56.986463 #3796] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:39:57.055106 #3796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:39:57.127317 #3796] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:01.037915 #2248] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:41:01.284060 #2248] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:41:01.341107 #2248] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:41:01.408455 #2248] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:41:01.460936 #2248] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:51.488287 #5420] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:41:51.758198 #5420] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:41:51.805944 #5420] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:41:51.883158 #5420] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:41:52.078120 #5420] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:52.148688 #5420] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:41:52.212728 #5420] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:52.257892 #5420] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:41:52.326180 #5420] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:52.374435 #5420] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:41:52.463659 #5420] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:41:52.532487 #5420] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.317585 #1240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.564261 #1240] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.617900 #1240] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:42:33.685723 #1240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.760021 #1240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:42:33.804732 #1240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.858827 #1240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:42:33.905379 #1240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:42:33.973331 #1240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:42:34.022539 #1240] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:42:34.085402 #1240] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orientacion"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:42:34.158354 #1240] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:43:28.638653 #8424] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:43:28.898289 #8424] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:43:28.961076 #8424] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:43:29.048660 #8424] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:43:29.107454 #8424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:43:29.149759 #8424] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:43:29.223763 #8424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:43:29.268073 #8424] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:43:29.330127 #8424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:43:29.378594 #8424] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:43:29.438325 #8424] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:43:29.514521 #8424] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:46:23.640911 #1828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:46:23.898117 #1828] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:46:23.959096 #1828] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:46:24.043339 #1828] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:24.099845 #1828] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:24.159923 #1828] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:24.218834 #1828] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:24.266199 #1828] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:24.328076 #1828] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:24.376529 #1828] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:24.457625 #1828] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:24.531310 #1828] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.139439 #8520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.387467 #8520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.441817 #8520] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:46:52.522163 #8520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.597131 #8520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:52.649620 #8520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.707527 #8520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:52.753916 #8520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.812228 #8520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:52.864580 #8520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:46:52.922634 #8520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:46:52.999641 #8520] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T19:48:36.707577 #3520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:48:36.960824 #3520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.020923 #3520] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T19:48:37.101842 #3520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.158479 #3520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:48:37.203881 #3520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.262380 #3520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:48:37.308828 #3520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.368037 #3520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:48:37.418960 #3520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.480733 #3520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:48:37.526259 #3520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T19:48:37.641422 #3520] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T19:48:37.701130 #3520] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:10:11.881217 #1756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:10:12.377382 #1756] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:10:12.445416 #1756] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:10:12.538767 #1756] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:12.799052 #1756] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:12.869605 #1756] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:12.937227 #1756] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:12.992398 #1756] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:13.057862 #1756] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:13.105502 #1756] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:13.169495 #1756] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:13.219553 #1756] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:13.285463 #1756] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:13.355892 #1756] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:10:35.655835 #5264] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:10:35.947438 #5264] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.005949 #5264] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:10:36.078270 #5264] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.134837 #5264] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:36.178556 #5264] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.237989 #5264] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:36.287799 #5264] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.355592 #5264] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:36.432498 #5264] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.503201 #5264] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:36.561206 #5264] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:10:36.629673 #5264] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:10:36.712928 #5264] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:12:30.972732 #10288] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.263834 #10288] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.331253 #10288] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:12:31.413876 #10288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.479303 #10288] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:12:31.531663 #10288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.612838 #10288] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:12:31.656640 #10288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.713405 #10288] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:12:31.759968 #10288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.824140 #10288] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:12:31.875672 #10288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:12:31.938137 #10288] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:12:32.019451 #10288] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:13:40.534130 #10208] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:13:40.994006 #10208] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.053378 #10208] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:13:41.130920 #10208] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.195848 #10208] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:13:41.243725 #10208] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.332860 #10208] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:13:41.385447 #10208] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.452640 #10208] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:13:41.512779 #10208] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.584523 #10208] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:13:41.637319 #10208] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:13:41.705236 #10208] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:13:41.787277 #10208] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:14:48.899550 #9144] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.188876 #9144] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.256887 #9144] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:14:49.401018 #9144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.490228 #9144] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:14:49.544947 #9144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.621133 #9144] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:14:49.676620 #9144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.741242 #9144] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:14:49.795566 #9144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.865839 #9144] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:14:49.919763 #9144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:14:49.981396 #9144] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:14:50.060068 #9144] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:18:49.140327 #8224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:18:49.418854 #8224] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:18:49.477224 #8224] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:18:50.356174 #8224] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:18:50.638661 #8224] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:18:50.694935 #8224] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:18:50.770973 #8224] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:18:50.831314 #8224] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:18:50.905312 #8224] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:18:50.958853 #8224] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:18:51.026868 #8224] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:18:51.085142 #8224] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:18:51.153034 #8224] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:18:51.236583 #8224] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:19:52.743767 #5564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.028332 #5564] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.098071 #5564] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:19:53.201083 #5564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.266672 #5564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:19:53.321025 #5564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.422818 #5564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:19:53.477176 #5564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.538262 #5564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:19:53.589526 #5564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.656473 #5564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:19:53.711775 #5564] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:19:53.777355 #5564] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:19:53.864109 #5564] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:20:04.404354 #7932] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:20:04.674772 #7932] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:20:04.736866 #7932] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:20:04.810581 #7932] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:20:04.871871 #7932] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:20:04.933450 #7932] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:20:05.051750 #7932] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:20:05.114951 #7932] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:20:05.178132 #7932] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:20:05.267838 #7932] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:20:05.328573 #7932] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:20:05.399758 #7932] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:20:05.490874 #7932] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North"} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:20:05.568921 #7932] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:40:21.313916 #7768] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:40:21.623749 #7768] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:40:21.686951 #7768] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:40:21.757550 #7768] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:40:21.838938 #7768] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:40:21.883639 #7768] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:40:21.949472 #7768] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:40:22.003794 #7768] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:40:22.076694 #7768] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:40:22.491414 #7768] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:40:22.562790 #7768] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:40:22.612507 #7768] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:40:22.674235 #7768] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:40:22.747733 #7768] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:52:18.379758 #5136] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:52:18.854732 #5136] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:52:18.976950 #5136] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:52:19.183181 #5136] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:52:19.274794 #5136] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:52:20.262883 #5136] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:52:20.324295 #5136] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:52:20.373640 #5136] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:52:20.432025 #5136] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:52:20.478803 #5136] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:52:20.541736 #5136] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:52:20.590155 #5136] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:52:20.655308 #5136] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:52:20.731422 #5136] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.009117 #9976] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.269160 #9976] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.327358 #9976] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T20:57:23.411534 #9976] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.479057 #9976] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:57:23.540944 #9976] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.607375 #9976] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:57:23.659560 #9976] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:57:23.725578 #9976] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:57:23.981845 #9976] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:57:24.054122 #9976] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:57:24.104381 #9976] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T20:57:24.163769 #9976] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T20:57:24.242975 #9976] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T21:06:44.216233 #3244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T21:06:44.891729 #3244] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T21:06:45.011766 #3244] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T21:06:45.177537 #3244] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:06:45.722981 #3244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:06:45.770738 #3244] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:06:45.837482 #3244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:06:45.890732 #3244] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:06:45.955818 #3244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:06:46.006629 #3244] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:06:46.072347 #3244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:06:46.121830 #3244] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:06:46.186806 #3244] DEBUG -- : REQUESTING PAGE: POST /resultado with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:06:46.263719 #3244] DEBUG -- : REQUESTING PAGE: GET /resultado with {} and HTTP headers {}
+D, [2019-12-11T21:09:21.095632 #3988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T21:09:21.362313 #3988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T21:09:21.424565 #3988] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T21:09:21.794570 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:09:21.857375 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:09:21.915848 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:09:21.983902 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:09:22.036430 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:09:22.151083 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:09:22.205495 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:09:22.269297 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:09:22.319174 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T21:09:22.384040 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T21:09:22.455773 #3988] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:17.371600 #7664] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T22:58:18.063741 #7664] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T22:58:18.164825 #7664] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T22:58:18.618491 #7664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:18.697027 #7664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T22:58:18.774041 #7664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:18.840285 #7664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T22:58:18.891828 #7664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:18.956788 #7664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T22:58:19.006643 #7664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:19.073789 #7664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T22:58:19.120553 #7664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T22:58:19.180816 #7664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T22:58:19.257092 #7664] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.209995 #10520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.475677 #10520] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.543844 #10520] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-11T23:26:32.676389 #10520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.745863 #10520] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"10", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T23:26:32.795727 #10520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.866166 #10520] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"10", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T23:26:32.917635 #10520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:32.986074 #10520] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"5", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T23:26:33.035731 #10520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:33.102673 #10520] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"5", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T23:26:33.152171 #10520] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-11T23:26:33.216457 #10520] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-11T23:26:33.284445 #10520] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:12.936528 #1504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:02:13.770885 #1504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:02:13.922613 #1504] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:02:14.105808 #1504] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:14.247474 #1504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:14.370344 #1504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:02:14.456905 #1504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:14.570700 #1504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:02:14.946256 #1504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:15.056793 #1504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:02:15.151981 #1504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:15.254310 #1504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:02:15.333844 #1504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:02:15.440563 #1504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:03:39.822592 #10416] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:03:40.243879 #10416] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:03:40.344370 #10416] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:03:40.471693 #10416] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:40.637550 #10416] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:40.753536 #10416] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:03:40.837909 #10416] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:40.953067 #10416] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:03:41.080764 #10416] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:41.178837 #10416] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:03:41.255853 #10416] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:41.354608 #10416] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:03:41.447324 #10416] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:03:41.558184 #10416] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:04:38.107668 #4536] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:04:38.447081 #4536] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:04:38.526230 #4536] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:04:38.637532 #4536] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:04:38.764142 #4536] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:04:38.900505 #4536] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:04:39.157322 #4536] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:04:39.303799 #4536] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:04:39.441029 #4536] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:34.200505 #9920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:05:34.546208 #9920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:05:34.622420 #9920] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:05:34.743645 #9920] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:34.869831 #9920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:34.958825 #9920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:05:35.054342 #9920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:35.139104 #9920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:05:35.206878 #9920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:35.293862 #9920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:05:35.359491 #9920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:35.437250 #9920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:05:35.498469 #9920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:05:35.585681 #9920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:14.668897 #664] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.060511 #664] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.142080 #664] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:06:15.263339 #664] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.371840 #664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.468400 #664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:15.549808 #664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.643231 #664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:15.778597 #664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:15.874590 #664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:15.962416 #664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:16.056037 #664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:16.120084 #664] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:16.213162 #664] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:46.933019 #4896] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.256338 #4896] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.340514 #4896] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:06:47.432314 #4896] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.534121 #4896] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.607636 #4896] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:47.741770 #4896] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.835943 #4896] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:47.905280 #4896] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:47.984169 #4896] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:48.047311 #4896] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:48.127761 #4896] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:06:48.183087 #4896] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:06:48.259283 #4896] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "roadN"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:33:23.185146 #3988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:33:23.850866 #3988] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:33:24.019348 #3988] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:33:24.242311 #3988] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:24.459406 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:24.683539 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:33:24.824578 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:24.934770 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:33:25.362212 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:25.559745 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:33:25.695881 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:25.929928 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:33:26.137924 #3988] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:33:26.395921 #3988] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:34:48.370569 #2016] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:34:48.874193 #2016] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:34:49.018063 #2016] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:34:49.394211 #2016] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:49.601998 #2016] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:49.705661 #2016] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:34:49.823400 #2016] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:49.955809 #2016] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:34:50.085751 #2016] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:50.195036 #2016] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:34:50.324352 #2016] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:50.426925 #2016] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:34:50.568601 #2016] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:34:50.692212 #2016] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:18.295445 #7316] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:36:18.719771 #7316] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:36:18.856541 #7316] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:36:18.965032 #7316] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:19.137879 #7316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:19.254327 #7316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:19.372120 #7316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:19.488223 #7316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:19.598666 #7316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:19.724394 #7316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:19.845208 #7316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:19.960889 #7316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:20.146492 #7316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:20.250954 #7316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:36:49.120802 #9316] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:36:49.625956 #9316] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:36:49.835104 #9316] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:36:49.972968 #9316] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:50.149277 #9316] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:36:50.294061 #9316] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:38:31.171738 #9796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:38:32.175894 #9796] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:38:32.592749 #9796] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:38:32.934510 #9796] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:38:33.907208 #9796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:38:34.235195 #9796] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:07.980900 #9796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:08.064011 #9796] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:08.401334 #3936] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:40:08.783986 #3936] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:40:08.873013 #3936] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:40:08.984716 #3936] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:09.103217 #3936] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:09.210518 #3936] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:47.551149 #7916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:40:49.013962 #7916] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:40:49.565810 #7916] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:40:50.165386 #7916] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:50.633780 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:50.992659 #7916] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:51.316159 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:51.643411 #7916] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:51.948882 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:52.234442 #7916] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:52.531579 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:52.901451 #7916] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:40:53.186904 #7916] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:40:53.614929 #7916] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:33.468291 #5696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:41:34.615247 #5696] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:41:34.726139 #5696] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:41:34.924829 #5696] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:35.108525 #5696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:35.247094 #5696] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:35.581565 #5696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:35.687774 #5696] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:35.822100 #5696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:35.929503 #5696] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:36.049577 #5696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:36.157984 #5696] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:36.296329 #5696] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:36.405898 #5696] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:41:40.727175 #9796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:41:40.805065 #9796] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:05.884149 #9804] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:42:06.387658 #9804] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:42:06.495644 #9804] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:42:06.674555 #9804] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:06.829745 #9804] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:07.018328 #9804] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:07.331050 #9804] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:07.481499 #9804] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:07.585012 #9804] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:07.698122 #9804] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:07.782446 #9804] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:07.923131 #9804] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:08.020459 #9804] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:08.150967 #9804] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:49.551176 #1032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:42:50.023273 #1032] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:42:50.069973 #9796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:50.126929 #1032] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:42:50.187412 #9796] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:42:50.302769 #1032] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:50.493852 #1032] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:42:50.616004 #1032] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:43:49.619363 #3236] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:43:50.169044 #3236] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:43:50.293764 #3236] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:43:50.498645 #3236] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:50.898406 #3236] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:51.050987 #3236] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:43:51.483746 #3236] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:51.725072 #3236] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:43:51.832966 #3236] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:51.993794 #3236] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:43:52.100569 #3236] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:52.255207 #3236] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:43:52.358311 #3236] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:43:52.524626 #3236] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:44:08.052694 #9796] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:44:08.163381 #9796] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:44:08.684564 #1032] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:44:08.824842 #1032] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:45:23.981569 #1032] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:45:24.083948 #1032] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:46:22.904587 #1032] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:46:22.967135 #1032] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:47:20.666394 #1032] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:47:20.769426 #1032] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:48:45.071861 #444] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:48:45.399170 #444] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:48:45.470054 #444] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:48:45.578611 #444] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:45.693907 #444] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:45.772565 #444] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:48:45.843399 #444] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:45.923732 #444] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:48:46.000094 #444] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:46.076570 #444] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:48:46.142970 #444] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:46.219116 #444] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:48:46.286605 #444] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:48:46.357731 #444] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:03.755815 #7904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.076190 #7904] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.137759 #7904] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:50:04.220725 #7904] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.304178 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.372812 #7904] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:04.434710 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.503917 #7904] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:04.580177 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.652886 #7904] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:04.720920 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.795600 #7904] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:04.866155 #7904] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:04.944915 #7904] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:32.958846 #10040] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.286774 #10040] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.357078 #10040] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:50:33.472966 #10040] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.595150 #10040] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.670068 #10040] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:33.744983 #10040] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.826274 #10040] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:33.893745 #10040] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:33.973650 #10040] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:34.047868 #10040] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:34.130010 #10040] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:50:34.206908 #10040] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:50:34.289602 #10040] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:52:30.828347 #1488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.185523 #1488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.296778 #1488] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:52:31.399102 #1488] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.533500 #1488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.621688 #1488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:52:31.696856 #1488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.784258 #1488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:52:31.871463 #1488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:31.957542 #1488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:52:32.060634 #1488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:32.151814 #1488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:52:32.227475 #1488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:52:32.312061 #1488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:27.712883 #6400] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.027179 #6400] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.105161 #6400] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:53:28.226692 #6400] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.336150 #6400] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.413743 #6400] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:28.512711 #6400] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.599843 #6400] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:28.671102 #6400] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.751731 #6400] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:28.822120 #6400] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:28.896575 #6400] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:28.963938 #6400] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:29.047070 #6400] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:46.812770 #5388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.136390 #5388] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.204109 #5388] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:53:47.285764 #5388] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.372721 #5388] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.445375 #5388] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:47.509055 #5388] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.587314 #5388] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:47.647494 #5388] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.717995 #5388] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:47.778907 #5388] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.845787 #5388] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:53:47.910013 #5388] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:53:47.982700 #5388] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:04.352221 #7576] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:04.641477 #7576] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:04.704320 #7576] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:54:04.806330 #7576] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:04.894485 #7576] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:04.961557 #7576] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:05.021234 #7576] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:05.097808 #7576] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:05.159123 #7576] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:05.226362 #7576] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:05.282732 #7576] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:05.347756 #7576] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:05.405087 #7576] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:05.474766 #7576] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:40.868807 #8868] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.174156 #8868] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.239103 #8868] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:54:41.316177 #8868] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.400824 #8868] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.470564 #8868] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:41.530953 #8868] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.609425 #8868] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:41.667223 #8868] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.732135 #8868] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:41.791592 #8868] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.862263 #8868] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:41.917484 #8868] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:41.982044 #8868] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:51.709608 #9928] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.007956 #9928] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.076728 #9928] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:54:52.156776 #9928] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.240874 #9928] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.305475 #9928] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:52.360944 #9928] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.434173 #9928] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:52.493208 #9928] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.564070 #9928] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:52.619679 #9928] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.687714 #9928] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:54:52.742259 #9928] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:54:52.807359 #9928] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:31.586657 #5920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:55:31.899370 #5920] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:55:31.976408 #5920] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:55:32.077295 #5920] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.163673 #5920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.231637 #5920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:32.287036 #5920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.358607 #5920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:32.416865 #5920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.480728 #5920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:32.540327 #5920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.605737 #5920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:32.662865 #5920] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:32.727913 #5920] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:55:59.444076 #5692] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:55:59.739671 #5692] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:55:59.812490 #5692] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:55:59.892081 #5692] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:55:59.978661 #5692] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:56:00.047749 #5692] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:56:00.131678 #5692] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:56:00.201470 #5692] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:56:00.260265 #5692] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:56:00.325030 #5692] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:56:00.383184 #5692] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:56:00.450504 #5692] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:56:00.504939 #5692] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:56:00.576931 #5692] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:57:27.279879 #3048] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:57:27.577936 #3048] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T02:57:27.639034 #3048] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T02:57:27.718139 #3048] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:27.803641 #3048] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:27.870595 #3048] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:57:27.959030 #3048] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:28.037366 #3048] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:57:28.095802 #3048] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:28.165106 #3048] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:57:28.224763 #3048] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:28.293599 #3048] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T02:57:28.351357 #3048] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T02:57:28.418371 #3048] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:03.986305 #2772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:00:04.960322 #2772] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:00:05.032167 #2772] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:00:05.500926 #2772] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:05.656472 #2772] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:05.735932 #2772] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:06.162827 #2772] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:06.246995 #2772] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:06.322103 #2772] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:06.402764 #2772] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:06.474092 #2772] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:06.541236 #2772] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:06.600851 #2772] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:06.669058 #2772] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:56.500845 #4144] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:00:56.786539 #4144] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:00:56.849792 #4144] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:00:56.941953 #4144] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.044369 #4144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.115250 #4144] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:57.176936 #4144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.252997 #4144] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:57.319760 #4144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.389402 #4144] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:57.454316 #4144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.528402 #4144] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:00:57.592490 #4144] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:00:57.659787 #4144] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:01:23.878663 #8488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.165928 #8488] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.234194 #8488] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:01:24.322439 #8488] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.422191 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.492554 #8488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:01:24.561618 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.635811 #8488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:01:24.701880 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.768983 #8488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:01:24.829171 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:24.896874 #8488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:01:24.956596 #8488] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:01:25.022633 #8488] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:03:11.811681 #9876] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:03:12.090463 #9876] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:03:12.157842 #9876] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:03:12.303179 #9876] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:03:12.424394 #9876] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:03:12.600167 #9876] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:04:09.598726 #10836] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:04:09.873778 #10836] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:04:09.936680 #10836] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:04:10.016547 #10836] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:04:10.096164 #10836] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:04:10.170195 #10836] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:05:27.043560 #6736] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:05:27.359937 #6736] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:05:27.431787 #6736] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:05:27.567139 #6736] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:27.862844 #6736] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:27.963107 #6736] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:05:28.266143 #6736] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:28.388409 #6736] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:05:28.461864 #6736] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:28.545045 #6736] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:05:28.674224 #6736] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:28.762519 #6736] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:05:28.853409 #6736] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:05:28.932084 #6736] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:07:51.904253 #5504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:07:52.556684 #5504] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T03:07:52.628718 #5504] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T03:07:52.838806 #5504] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:52.981465 #5504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:53.064406 #5504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:07:53.519190 #5504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:53.637935 #5504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:07:53.712014 #5504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:53.801716 #5504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:07:53.869830 #5504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:53.947353 #5504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T03:07:54.021053 #5504] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T03:07:54.099405 #5504] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:29:42.702362 #6784] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T15:29:43.497109 #6784] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T15:29:43.599474 #6784] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T15:29:43.791329 #6784] DEBUG -- : REQUESTING PAGE: GET /resultadoSimulacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:43.906135 #6784] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:43.985128 #6784] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:29:44.256328 #6784] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:44.312810 #6784] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:29:44.364324 #6784] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:44.418510 #6784] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:29:44.465366 #6784] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:44.520478 #6784] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:29:44.579582 #6784] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:29:44.647664 #6784] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:31:01.615101 #8288] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T15:31:01.884750 #8288] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2019-12-12T15:31:01.952373 #8288] DEBUG -- : REQUESTING PAGE: POST /llenadoDeInformacion with {"nombreLabel"=>"Augusto"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2019-12-12T15:31:02.039845 #8288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:31:02.107376 #8288] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"5", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:31:02.204774 #8288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:31:02.305686 #8288] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"5", "posX"=>"", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:31:02.365967 #8288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:31:02.431175 #8288] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"2", "posY"=>"", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:31:02.488976 #8288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:31:02.553687 #8288] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"2", "Orient"=>"", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
+D, [2019-12-12T15:31:02.610179 #8288] DEBUG -- : REQUESTING PAGE: GET /llenadoDeInformacion with {} and HTTP headers {}
+D, [2019-12-12T15:31:02.674128 #8288] DEBUG -- : REQUESTING PAGE: POST /resultadoSimulacion with {"dimX"=>"", "dimY"=>"", "posX"=>"", "posY"=>"", "Orient"=>"North", "pasos"=>""} and HTTP headers {"HTTP_REFERER"=>"/llenadoDeInformacion"}
